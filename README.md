@@ -1,0 +1,2 @@
+# Duplicates_remover
+Having duplicate images in your dataset creates a problem for two reasons:  It introduces bias into your dataset, giving your deep neural network additional opportunities to learn patterns specific to the duplicates It hurts the ability of your model to generalize to new images outside of what it was trained on And identifying duplicates in a large dataset manually is very time consuming and error-prone. That's why we want to remove duplicate images from our dataset.
